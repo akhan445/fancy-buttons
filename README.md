@@ -28,10 +28,10 @@ The web application has 4 buttons that allow the user to interact and change the
 ![counter](./docs/counterButton.gif)
 
 3. **Text Repeating Button**
-![text-repeater](./docs/LightSwitchButton.gif)
+![text-repeater](./docs/textRepeaterButton.gif)
 
 4. **Light Switch Button** - also changes the theme between "light" and "dark"
-![light-swtich](./docs/textRepeaterButton.gif)
+![light-swtich](./docs/lightSwitchButton.gif)
 
 
 
